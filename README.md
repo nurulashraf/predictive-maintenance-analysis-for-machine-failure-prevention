@@ -1,1 +1,1 @@
-# predictive-maintenance-analysis-for-machine-failure-prevention
+# Predictive Maintenance Analysis for Machine Failure Prevention
