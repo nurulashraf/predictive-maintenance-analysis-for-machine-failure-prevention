@@ -1,4 +1,4 @@
-# Predictive Maintenance Analysis for Machine Failure Preventio
+# Predictive Maintenance Analysis for Machine Failure Prevention
 
 Predictive maintenance analysis using sensor data and machine learning. This project builds a Random Forest model and a Gradio dashboard to identify high-risk machines for proactive maintenance.
 
