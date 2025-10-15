@@ -4,7 +4,7 @@ Predictive maintenance analysis using sensor data and machine learning. This pro
 
 ---
 
-## Project Structure
+## Project Structur
 
 - `data/` — contains datasets used in the analysis (raw, cleaned, processed)  
 - `notebooks/` — Jupyter notebooks for data exploration, model building, and dashboard prototyping  
